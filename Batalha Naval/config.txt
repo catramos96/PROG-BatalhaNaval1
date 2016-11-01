@@ -1,0 +1,6 @@
+tabuleiro: 10 x 10 
+1 - Porta-avioes - 5 - P - Vermelho_claro 
+1 - Fragata      - 4 – F - Magenta_claro 
+2 - Cruzador     - 3 - C - Verde_claro   
+3 - Submarino    - 2 - S - Castanho 
+4 - Lancha       - 1 - L - Azul_claro

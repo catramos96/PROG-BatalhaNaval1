@@ -1,0 +1,12 @@
+10 x 10
+P 5 Ch V
+€ 4 Ae V
+C 3 If H
+C 3 Eb H
+S 2 Df V
+S 2 Ac V
+S 2 Eg V
+L 1 Dc H
+L 1 Cb H
+L 1 Fe H
+L 1 Hi V
